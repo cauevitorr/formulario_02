@@ -1,0 +1,29 @@
+form{
+    flex-direction: column;
+    display: flex;
+    max-width: 1000px;
+    margin-left: 100px;
+}
+
+section{
+    background-color: rgb(124, 179, 179);
+    margin: 200px auto;
+    max-width: 400px;
+    border-radius: 50px;
+    height: 500px;
+}
+
+input{
+    margin-bottom: 10px;
+    max-width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-right: 100px;
+}
+
+button{
+    max-width: 100px;
+    margin: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
